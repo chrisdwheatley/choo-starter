@@ -1,7 +1,7 @@
 {
-  "name": "choo-codesandbox-sandbox",
+  "name": "choo-starter",
   "version": "1.0.0",
-  "description": "The choo.io example as a codesandbox.io sandbox",
+  "description": "The choo.io example code",
   "author": "Chris Draycott-Wheatley",
   "license": "MIT",
   "dependencies": {
