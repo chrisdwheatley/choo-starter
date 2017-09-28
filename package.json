@@ -1,0 +1,10 @@
+{
+  "name": "choo-codesandbox-sandbox",
+  "version": "1.0.0",
+  "description": "The choo.io example as a codesandbox.io sandbox",
+  "author": "Chris Draycott-Wheatley",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^6.1.0"
+  }
+}
